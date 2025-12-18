@@ -21,10 +21,11 @@ An NMOS footer transistor is inserted in the ground path:
 
 ## Simulation Results
 
-**Parameter 	Normal 8T SRAM	 Optimized 8T SRAM**
-Voltage	        659.9mV	           655.5mV
-Current 	      9.588nA	           906.3fA
-Power	          6.328nW	           0.6026pW
+| Parameter | Normal 8T SRAM | Optimized 8T SRAM |
+|---------|---------------|------------------|
+| Voltage | 659.9 mV | 655.5 mV |
+| Current | 9.588 nA | 906.3 fA |
+| Power | 6.328 nW | 0.6026 pW |
 
 
 ## Tools Used
